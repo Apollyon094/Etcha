@@ -112,3 +112,5 @@ Happy Etchin'!
 Chris Pressey  
 October 4th, 2009  
 Mold City, USA
+
+From Asher (apollyon094): This may become an extension of Etcha with atleast 16 instructions, named Sketcha
